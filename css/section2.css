@@ -1,0 +1,11 @@
+.Introduction-section{
+  background:
+  radial-gradient(circle at 5% -60%,  #74b9ff 38%, #fff 44%, transparent),
+
+  radial-gradient(circle at 95% 180%,#142427 38% , #fff 44%, transparent);
+}
+
+.Introduction-section p{
+  margin: 0;
+  padding: 0;
+}

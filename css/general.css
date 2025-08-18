@@ -1,0 +1,19 @@
+body {
+  font-family: "Lexend", sans-serif; 
+  font-weight: 700;
+  padding: 0 !important;
+  margin: 0;
+  overflow-x: hidden;
+  background-color: #071022;
+  height: 1500vh;
+}
+
+:root{
+  --bg: #0f1724;
+  --card: #0b1220;
+  --muted: #94a3b8;
+  --accent: #7c3aed;
+  --line: #1f2937;
+  --glass: rgba(255, 255, 255, 0.02);
+  --main-color: #071022;
+}
